@@ -6,3 +6,4 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 **Incluid debajo el nombre de los miembros del grupo:**
 - [David Renedo Gil](https://github.com/drg1006)
 - [David Merinero Porres](https://github.com/dmp1002)
+- [Borja Blanco Porres](https://github.com/bbp1002)
